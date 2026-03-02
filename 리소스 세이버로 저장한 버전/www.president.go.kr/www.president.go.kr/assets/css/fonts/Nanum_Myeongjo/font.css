@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Nanum_Myeongjo';
+    font-weight: 600;
+    font-display: block;
+    src: url('woff/NanumMyeongjo-ExtraBold.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Nanum_Myeongjo';
+    font-weight: 500;
+    font-display: block;
+    src: url('woff/NanumMyeongjo-Bold.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Nanum_Myeongjo';
+    font-weight: 400;
+    font-display: block;
+    src: url('woff/NanumMyeongjo-Regular.woff') format('woff');
+}
