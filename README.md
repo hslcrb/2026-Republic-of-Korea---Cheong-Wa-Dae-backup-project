@@ -24,6 +24,7 @@ This project is a comprehensive digital archive of the official website of the B
 | `org/` | Organizational chart and administration info / 조직도 및 행정 정보 |
 | `speeches/` | Collection of official speeches and statements / 공식 연설문 및 성명서 모음 |
 | `뉴스룸/` (Newsroom) | Official news, media, and photo archives / 공식 뉴스, 미디어 및 사진 아카이브 |
+| `뉴스룸/카드뉴스/` (Card News) | Visual news archives in card format / 카드 형태의 시각 뉴스 아카이브 |
 | `리소스 세이버로 저장한 버전/` | Static assets, CSS, JS, and image resources / CSS, JS 및 이미지 등 정적 리소스 |
 | `LICENSE` | Apache License 2.0 / 아파치 라이선스 2.0 |
 | `README.md` | Project documentation (Bilingual) / 프로젝트 문서 (한영 병기) |
