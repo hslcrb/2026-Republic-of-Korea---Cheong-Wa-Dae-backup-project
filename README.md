@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="cheongwadae_logo.svg" alt="Cheong Wa Dae Logo" width="300">
+</p>
+
 # 2026 Republic of Korea - Cheong Wa Dae Backup Project / 2026 대한민국 청와대 백업 프로젝트
 
 ## Overview / 개요
